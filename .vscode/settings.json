@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TestProjectPlaynera.sln"
+    "dotnet.defaultSolution": "TestProjectMakeUp.sln"
 }
